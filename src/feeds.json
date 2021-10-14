@@ -24,5 +24,8 @@
   ],
   "blogs": [
     "https://kevinfiol.com/atom.xml"
+  ],
+  "TiDB-blogs": [
+    "https://www.zenlife.tk/feed.atom"
   ]
 }
