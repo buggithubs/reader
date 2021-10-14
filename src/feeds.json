@@ -26,6 +26,7 @@
     "https://kevinfiol.com/atom.xml"
   ],
   "TiDB-blogs": [
-    "https://www.zenlife.tk/feed.atom"
+    "https://www.zenlife.tk/feed.atom",
+    "https://disksing.com/post/index.xml"
   ]
 }
